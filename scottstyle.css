@@ -1,0 +1,31 @@
+h1 {
+  font-family: 'roboto','times new roman';
+  font-size: 72px;
+  color:firebrick;
+  border-bottom: 5px solid navy;
+  padding-bottom: 6px;
+}
+
+h2 {
+  font-family: 'roboto','times new roman';
+  font-size: 36px;
+  color:firebrick;
+  background: navy;
+}
+
+p {
+  font-family: 'roboto','times new roman';
+  font-size: 23px;
+  color: firebrick;
+  background: navy;
+}
+
+a {
+  font-family: 'roboto', 'times new roman';
+  font-size: 20px;
+}
+
+a:link    { color: blue;  }
+a:visited { color: red;   }
+a:hover   { color: #ecf024; }
+a:active  { color: #09e12d;  }
