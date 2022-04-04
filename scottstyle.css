@@ -1,3 +1,4 @@
+/*Formatting for the largest header*/
 h1 {
   font-family: 'roboto','times new roman';
   font-size: 72px;
@@ -12,7 +13,7 @@ body {
 margin: 0;
   
 }
-
+/*Formatting for the 2nd largest header*/
 h2 {
   font-family: 'roboto','times new roman';
   font-size: 36px;
@@ -21,6 +22,7 @@ h2 {
   text-align: justify;
 }
 
+/*Formatting for the paragraphs*/
 p {
   font-family: 'roboto','times new roman';
   font-size: 23px;
@@ -29,6 +31,7 @@ p {
   text-align: justify;
 }
 
+/*Formatting for the Horizontal Rule*/
 hr {
   height: 3px;
   background-color: firebrick;
@@ -36,6 +39,7 @@ hr {
   text-align: justify;
 }
 
+/*Formatting for the links*/
 a {
   font-family: 'roboto', 'times new roman';
   font-size: 20px;
