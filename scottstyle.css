@@ -4,6 +4,12 @@ h1 {
   color:firebrick;
   border-bottom: 5px solid navy;
   padding-bottom: 6px;
+  
+}
+
+body {
+margin: 0;
+  
 }
 
 h2 {
@@ -20,9 +26,17 @@ p {
   background: navy;
 }
 
+hr {
+  height: 3px;
+  background-color: firebrick;
+  padding: 3px;
+}
+
 a {
   font-family: 'roboto', 'times new roman';
   font-size: 20px;
+  padding: 10px;
+  margin: 2px;
 }
 
 a:link    { color: blue;  }
